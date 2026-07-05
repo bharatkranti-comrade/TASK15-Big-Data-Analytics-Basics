@@ -1,0 +1,5 @@
+2026-07-05 10:00:12 INFO Application started successfully
+2026-07-05 10:01:45 ERROR Database connexion timeout failure
+2026-07-05 10:05:30 WARN High CPU utilization detected
+2026-07-05 10:08:22 INFO User authentication verified
+2026-07-05 10:12:11 ERROR Failed to write data to storage bucket
